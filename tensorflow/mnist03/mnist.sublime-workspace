@@ -1,0 +1,256 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"tensorboard"
+			],
+			[
+				"h_fc1",
+				"h_fc1_drop"
+			],
+			[
+				"h",
+				"h_pool1"
+			],
+			[
+				"b",
+				"b_conv1"
+			],
+			[
+				"W",
+				"W_conv1"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"Wire_",
+				"Wire_connect"
+			],
+			[
+				"motor",
+				"motorState"
+			],
+			[
+				"StepperMotor_MOTOR",
+				"StepperMotor_MOTORSTATE_ACCEL"
+			],
+			[
+				"wire",
+				"wireStateMap"
+			],
+			[
+				"P",
+				"PROJ_BIN_DIR"
+			],
+			[
+				"MCU",
+				"MCU_SDK_DIR"
+			],
+			[
+				"GCC",
+				"GCC_BIN_DIR"
+			],
+			[
+				"PROJ",
+				"PROJ_SRC_DIR"
+			],
+			[
+				"LIBS",
+				"LIBS_PATH"
+			],
+			[
+				"GCC_",
+				"GCC_TOOL_PREFIX"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mcass/tensorflow/mnist03"
+	],
+	"file_history":
+	[
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/src/wire.h",
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/src/steppermotor.h",
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/src/main.c.old",
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/src/main.c",
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/src/wire.c",
+		"/home/mcass/tensorflow/mnist03/mnist.py",
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/src/steppermotor.c",
+		"/home/mcass/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/Stepper_L298N_MCU.sublime-project",
+		"/home/mcass/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/Stepper_L298N_MCU.sublime-workspace",
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/main.o",
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/bin/download.sh",
+		"/home/mcass/tensorflow/mninst02/mnist.py",
+		"/home/mcass/edison/projects/Stepper_LN298_MCU/main.c",
+		"/home/mcass/.bashrc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"y_",
+			"motor->wireStateMap",
+			"motor->wireStateMap	",
+			"motor->wireStateMap",
+			"clean",
+			"Clean",
+			"clean",
+			"linux"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "mnist.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
